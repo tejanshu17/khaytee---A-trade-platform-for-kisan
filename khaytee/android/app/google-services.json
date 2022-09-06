@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288090632926",
+    "project_id": "khaytee-262e2",
+    "storage_bucket": "khaytee-262e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288090632926:android:95b4e18d8183570aad884f",
+        "android_client_info": {
+          "package_name": "com.khaytee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288090632926-9vlitkrk4hu3uceid7433jdui65l7hrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLjszf2_OR1hMHM00RARVHp1hyeeWJch4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288090632926-9vlitkrk4hu3uceid7433jdui65l7hrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
